@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/liutonghao/Desktop/Ella_Project/Inventory/IMS.UseCases/IMS.UseCases/IMS.UseCases.csproj",
-      "projectName": "IMS.UseCases",
-      "projectPath": "/Users/liutonghao/Desktop/Ella_Project/Inventory/IMS.UseCases/IMS.UseCases/IMS.UseCases.csproj",
+      "projectUniqueName": "/Users/liutonghao/Desktop/Ella_Project/Inventory/IMS.WebApp/IMS.WebApp/IMS.WebApp.csproj",
+      "projectName": "IMS.WebApp",
+      "projectPath": "/Users/liutonghao/Desktop/Ella_Project/Inventory/IMS.WebApp/IMS.WebApp/IMS.WebApp.csproj",
       "packagesPath": "/Users/liutonghao/.nuget/packages/",
-      "outputPath": "/Users/liutonghao/Desktop/Ella_Project/Inventory/IMS.UseCases/IMS.UseCases/obj/",
+      "outputPath": "/Users/liutonghao/Desktop/Ella_Project/Inventory/IMS.WebApp/IMS.WebApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/liutonghao/.nuget/NuGet/NuGet.Config"
@@ -60,6 +60,9 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
